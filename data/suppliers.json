@@ -1,0 +1,10 @@
+[
+  {
+    "companyName": "Садовод ООО",
+    "contactPerson": "Петр Иванов",
+    "phone": "+79123456789",
+    "email": "sadvod@example.com",
+    "address": "ул. Полевая, д. 10",
+    "createdAt": "2024-04-01T10:00:00Z"
+  }
+]
